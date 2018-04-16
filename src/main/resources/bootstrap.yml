@@ -1,6 +1,6 @@
 spring:
   application:
-    name: config-client
+    name: springconfclient
 #  profiles:
 #    active: dev
   cloud:
